@@ -1,0 +1,4 @@
+1. verbose mode
+2. connect to play store
+3. install top n apps
+4. get their package names
