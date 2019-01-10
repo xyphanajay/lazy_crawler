@@ -1,0 +1,4 @@
+List of devices attached
+
+List of devices attached
+4fd21956	no permissions; see [http://developer.android.com/tools/device.html]
