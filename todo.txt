@@ -2,3 +2,14 @@
 2. connect to play store
 3. install top n apps
 4. get their package names
+
+
+
+Steps:
+
+--> pull_apk will get package name
+-> check emulator on
+--> check package path
+--> then pull the package
+--> and rename it
+ 
